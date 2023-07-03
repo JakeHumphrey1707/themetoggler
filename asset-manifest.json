@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/themetoggler/static/css/main.6815a837.css",
+    "main.js": "/themetoggler/static/js/main.35748ca1.js",
+    "index.html": "/themetoggler/index.html",
+    "main.6815a837.css.map": "/themetoggler/static/css/main.6815a837.css.map",
+    "main.35748ca1.js.map": "/themetoggler/static/js/main.35748ca1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6815a837.css",
+    "static/js/main.35748ca1.js"
+  ]
+}
